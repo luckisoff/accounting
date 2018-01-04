@@ -1,0 +1,19 @@
+----------------------------------------------------------------
+Fri Jan 05 01:07:32 NPT 2018:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.1.0 - (1808820): instance a816c00e-0160-c29f-933b-000002bc8728 
+on database directory /home/npbrain/git/accounting/Accounting/accounting with class loader sun.misc.Launcher$AppClassLoader@42a57993 
+Loaded from file:/media/npbrain/E%20drive/Derby/db-derby-10.14.1.0-bin/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_144-b01
+user.dir=/home/npbrain/git/accounting/Accounting
+os.name=Linux
+os.arch=amd64
+os.version=4.4.0-53-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri Jan 05 01:08:13 NPT 2018: Shutting down Derby engine
+----------------------------------------------------------------
+Fri Jan 05 01:08:13 NPT 2018:
+Shutting down instance a816c00e-0160-c29f-933b-000002bc8728 on database directory /home/npbrain/git/accounting/Accounting/accounting with class loader sun.misc.Launcher$AppClassLoader@42a57993 
+----------------------------------------------------------------
